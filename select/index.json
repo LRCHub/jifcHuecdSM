@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Milestone",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-02-08T08:43:47.932575Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Milestone River",
+      "artist": "TNT",
+      "has_synced": false,
+      "path": "select/01_Milestone_River_TNT.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Milestone 2 (Skux Life)",
+      "artist": "Moniker",
+      "has_synced": false,
+      "path": "select/02_Milestone_2_(Skux_Life)_Moniker.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Milestone",
+      "artist": "Five Iron Frenzy",
+      "has_synced": true,
+      "path": "select/03_Milestone_Five_Iron_Frenzy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Milestone",
+      "artist": "Silverstein",
+      "has_synced": true,
+      "path": "select/04_Milestone_Silverstein.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Zephyrus: Milestone",
+      "artist": "Silverstein",
+      "has_synced": true,
+      "path": "select/05_Zephyrus__Milestone_Silverstein.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Milestone",
+      "artist": "Nonpoint",
+      "has_synced": true,
+      "path": "select/06_Milestone_Nonpoint.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Last Milestone",
+      "artist": "Leprous",
+      "has_synced": false,
+      "path": "select/07_The_Last_Milestone_Leprous.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Milestone",
+      "artist": "Nonpoint",
+      "has_synced": true,
+      "path": "select/08_Milestone_Nonpoint.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Milestone",
+      "artist": "BoA",
+      "has_synced": false,
+      "path": "select/09_Milestone_BoA.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Milestone",
+      "artist": "Crossfaith",
+      "has_synced": true,
+      "path": "select/10_Milestone_Crossfaith.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Milestone",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/11_Milestone_NANO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Milestone",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/12_Milestone_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Milestone",
+      "artist": "Matt Walden feat. Joey Kidney",
+      "has_synced": true,
+      "path": "select/13_Milestone_Matt_Walden_feat._Joey_Kidney.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Milestone",
+      "artist": "Matt Walden",
+      "has_synced": false,
+      "path": "select/14_Milestone_Matt_Walden.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Milestone",
+      "artist": "Foreign Air",
+      "has_synced": false,
+      "path": "select/15_Milestone_Foreign_Air.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Milestone Moon",
+      "artist": "Zee Avi",
+      "has_synced": true,
+      "path": "select/16_Milestone_Moon_Zee_Avi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Milestone",
+      "artist": "BoA",
+      "has_synced": false,
+      "path": "select/17_Milestone_BoA.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Milestone",
+      "artist": "Nothing’s Carved in Stone",
+      "has_synced": true,
+      "path": "select/18_Milestone_Nothing’s_Carved_in_Stone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Milestone",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_Milestone_04_Limited_Sazabys.txt"
+    }
+  ]
+}
